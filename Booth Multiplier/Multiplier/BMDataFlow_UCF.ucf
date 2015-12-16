@@ -1,0 +1,17 @@
+NET "clk" LOC="M4";
+NET "multiplicand<0>" LOC = "P11";
+NET "multiplicand<1>" LOC = "L3";
+NET "multiplicand<2>" LOC = "K3";
+NET "multiplicand<3>" LOC = "B4";
+NET "multiplier<0>" LOC = "G3";
+NET "multiplier<1>" LOC = "F3";
+NET "multiplier<2>" LOC = "E2";
+NET "multiplier<3>" LOC = "N3";
+INST "P<0>" LOC = "M5";
+INST "P<1>" LOC = "M11";
+INST "P<2>" LOC = "P7";
+INST "P<3>" LOC = "P6";
+INST "P<4>" LOC = "N5";
+INST "P<5>" LOC = "N4";
+INST "P<6>" LOC = "P4";
+INST "P<7>" LOC = "G1";

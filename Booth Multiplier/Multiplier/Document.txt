@@ -1,0 +1,3 @@
+Dedicated Multipliers - 12
+Location Of Dedicated Multipliers - aside Of RAM
+Multiplier used by my design : MULT18X18SIO
